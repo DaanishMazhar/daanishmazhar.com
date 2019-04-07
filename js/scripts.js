@@ -25,7 +25,7 @@ window.onload = function() {
     'I spend my time between studies, my startup <a href="https://www.neybor.app/" target="_blank">Neybor</a>, managing clubs & organizations, personal development, and sports/excersice.',
     'Interested in working with me? I am accepting freelance work and other oppurtunities.<br>', 
     'You can contact me <a href="mailto:daanish@daanishmazhar.com"target="_blank">here</a> or in the chat box below.',
-    '<a target="_blank" href="linkedin.com/in/daanishmazhar">LinkedIn</a><br><a target="_blank" href="github.com/daanishmazhar">Github</a><br><a target="_blank" href="daanishmazhar.com/resume.pdf">Resume</a><br><a target="_blank" href="www.daanish.me">More About Me/Projects</a><br>',
+    '<a href="https://www.linkedin.com/in/daanishmazhar" target="_blank">LinkedIn</a><br><a href="https://www.github.com/daanishmazhar" target="_blank">Github</a><br><a href="www.daanishmazhar.com/resume.pdf" target="_blank">Resume</a><br><a href="http://daanish.me" target="_blank">More About Me/Projects</a><br>',
     getCurrentTime(),
     '👀 DM'
   ]
