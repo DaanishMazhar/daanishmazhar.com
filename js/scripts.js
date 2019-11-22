@@ -19,7 +19,7 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Daanish',
     'I build world changing products one line at a time.',
-    'Currently, I\'m making air travel easier @ <a href="https://www.gordiansoftware.com/" target="_blank">Gordian Software</a>!',
+    'I am an 18 year old software engineer @ <a href="https://www.gordiansoftware.com/" target="_blank">Gordian Software</a>!',
     'After my internship, I will be returning to the University of Calgary as a second year Computer Science and Business student.',
     'I am very passionate about large-scale distributed systems, spatial data structures, machine learning, user experiences, and big data visualization.',
     'I spend my time between studies, my startup <a href="https://www.neybor.app/" target="_blank">Neybor</a>, managing clubs & organizations, personal development, and sports/excersice.',
