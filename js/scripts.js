@@ -17,7 +17,7 @@ window.onload = function() {
 
   var messages = [
     'Hey there 👋',
-    'I\'m Daanish',
+    'My name is Daanish Ali Mazhar',
     'I build world changing products one line at a time.',
     'I am an 18 year old software engineer @ <a href="https://www.gordiansoftware.com/" target="_blank">Gordian Software YC W19</a>',
     'I am continuing my education at the Bradfield School of Computer Science, CSM & UCB (deferred)',
