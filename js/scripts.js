@@ -19,7 +19,7 @@ window.onload = function() {
     'Hey there 👋',
     'My name is Daanish Ali Mazhar',
     'I build world changing products one line at a time.',
-    'I am an 18 year old software engineer @ <a href="https://www.gordiansoftware.com/" target="_blank">Gordian Software YC W19</a>',
+    'I am an 20 year old software engineer @ <a href="https://www.gordiansoftware.com/" target="_blank">Gordian Software YC W19</a>',
     'I am continuing my education at the Bradfield School of Computer Science, CSM & UCB (deferred)',
     'I am very passionate about startups, large-scale distributed systems, spatial data structures, machine learning, user experiences, and big data visualization.',
     'Previously I was working on startups and studying CS/Business @ University of Calgary',
